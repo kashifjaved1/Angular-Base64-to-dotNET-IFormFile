@@ -1,0 +1,7 @@
+{
+    "/api": {
+        "target": "https://your-dotnet-api.com",
+        "secure": false
+    }
+}
+  
